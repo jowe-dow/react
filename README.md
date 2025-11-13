@@ -22,6 +22,17 @@ You can find the React documentation [on the website](https://react.dev/).
 
 Check out the [Getting Started](https://react.dev/learn) page for a quick overview.
 
+### 中文学习资源 (Chinese Learning Resources)
+
+如果你是前端初学者并想深入学习 React 架构，我们提供了完整的中文学习指南：
+
+* **[学习指南索引](./LEARNING_GUIDE_INDEX.md)** - 开始这里！
+* **[React 架构深度解析](./REACT_ARCHITECTURE_CN.md)** - 完整的架构文档
+* **[架构图解](./ARCHITECTURE_DIAGRAMS.md)** - 可视化图表
+* **[实战示例](./PRACTICAL_EXAMPLES.md)** - 代码示例集合
+
+For frontend beginners who want to learn React architecture in depth, we provide comprehensive Chinese learning materials covering core concepts, Fiber architecture, rendering processes, and practical examples.
+
 The documentation is divided into several sections:
 
 * [Quick Start](https://react.dev/learn)
